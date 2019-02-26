@@ -141,4 +141,5 @@ public class Diary extends AppCompatActivity {
         Intent it = new Intent(getApplicationContext(),Database.class);
         startActivity(it);
     }
+    //update git!
 }
